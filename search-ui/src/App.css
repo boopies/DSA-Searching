@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  margin: 50px auto;
+  padding: 50px;
+  max-width: 60%;
+}
+
+label {
+  margin: 20px auto 10px auto;
+}
+
+input {
+  width: 50px;
+  margin: 5px auto;
+}
+
+.submit-form {
+  display:flex;
+  flex-direction: column;
+}
+
+textarea {
+  height: 200px;
+  width: 70%;
+  margin: 10px auto;
+}
+
+button {
+  width: 200px;
+  margin: 20px auto;
+}
